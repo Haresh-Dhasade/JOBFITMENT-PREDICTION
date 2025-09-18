@@ -1,0 +1,96 @@
+text,label
+"Experienced Python developer with Django, Flask, REST APIs, SQL",Developer
+"Java, Spring Boot, Hibernate, Microservices, REST, MySQL",Developer
+"Developed REST APIs with Node.js, Express, and MongoDB",Developer
+"Skilled in C#, .NET, and SQL Server for enterprise apps",Developer
+"Full-stack development with MERN stack and cloud deployment",Developer
+"Strong backend skills in Java, Spring Security, Docker",Developer
+"Python scripting, automation, REST API development",Developer
+"Built scalable apps with Go, gRPC, and PostgreSQL",Developer
+"Proficient in software architecture and design patterns",Developer
+"Mobile app development with Flutter, Firebase, SQLite",Developer
+"Strong OOP concepts in C++ and Python development",Developer
+"Agile development using Git, CI/CD, and Jira",Developer
+"Integrated third-party APIs and payment gateways",Developer
+"Experience with GraphQL APIs and Apollo Client",Developer
+"Developed cloud-native apps with AWS Lambda and DynamoDB",Developer
+
+"Data analysis using pandas, NumPy, and scikit-learn",Data Scientist
+"Built ML models with TensorFlow and PyTorch",Data Scientist
+"Skilled in data visualization with Matplotlib and Seaborn",Data Scientist
+"Performed statistical analysis using R and Python",Data Scientist
+"Worked with large datasets in Spark and Hadoop",Data Scientist
+"Feature engineering and model optimization",Data Scientist
+"Natural Language Processing with spaCy and NLTK",Data Scientist
+"Computer Vision with OpenCV and CNNs",Data Scientist
+"Predictive analytics with regression models",Data Scientist
+"Deployed ML models with Flask and Docker",Data Scientist
+"Deep learning with transformers and BERT",Data Scientist
+"Exploratory data analysis and clustering techniques",Data Scientist
+"SQL, data cleaning, and preprocessing pipelines",Data Scientist
+"Time series forecasting with ARIMA and LSTMs",Data Scientist
+"Recommendation systems with collaborative filtering",Data Scientist
+
+"SQL, Excel, Power BI for business dashboards",Business Analyst
+"Market research and business requirement gathering",Business Analyst
+"Skilled in Tableau and KPI reporting",Business Analyst
+"Business process modeling and gap analysis",Business Analyst
+"Customer data analysis using Excel and SQL",Business Analyst
+"Requirement documentation and user stories",Business Analyst
+"Strong knowledge of Agile and Scrum processes",Business Analyst
+"Worked with stakeholders to define KPIs",Business Analyst
+"Experience in financial analysis and forecasting",Business Analyst
+"Created reports for management decision making",Business Analyst
+"Business case development and ROI analysis",Business Analyst
+"Analyzed e-commerce data for customer insights",Business Analyst
+"Designed BI dashboards with Power BI and Tableau",Business Analyst
+"Skilled in statistical business modeling",Business Analyst
+"Experience with CRM systems and workflows",Business Analyst
+
+"Automated tests with Selenium and Python",QA Engineer
+"Unit testing with JUnit and TestNG",QA Engineer
+"Manual test case design and execution",QA Engineer
+"API testing with Postman and Newman",QA Engineer
+"Load testing with JMeter and Gatling",QA Engineer
+"Regression testing for web applications",QA Engineer
+"Experience in black-box and white-box testing",QA Engineer
+"Bug tracking with Jira and TestRail",QA Engineer
+"Mobile app testing with Appium",QA Engineer
+"Integration testing in Agile projects",QA Engineer
+"Automation frameworks with Cypress",QA Engineer
+"Continuous testing in CI/CD pipelines",QA Engineer
+"Security testing for web applications",QA Engineer
+"Cross-browser testing with BrowserStack",QA Engineer
+"Experience in writing detailed test reports",QA Engineer
+
+"Linux administration and shell scripting",DevOps
+"CI/CD pipeline setup with Jenkins and GitHub Actions",DevOps
+"Containerization with Docker and Kubernetes",DevOps
+"Monitoring with Prometheus and Grafana",DevOps
+"Infrastructure as Code using Terraform",DevOps
+"Cloud deployment on AWS and Azure",DevOps
+"Strong knowledge of networking and firewalls",DevOps
+"Automated builds and deployments",DevOps
+"Logging and monitoring with ELK stack",DevOps
+"Version control with Git and GitLab CI",DevOps
+"Worked with Helm charts for Kubernetes apps",DevOps
+"Implemented blue-green and canary deployments",DevOps
+"Scaling microservices with Kubernetes",DevOps
+"Serverless deployments with AWS Lambda",DevOps
+"Experience with Ansible for automation",DevOps
+
+"Frontend development with HTML, CSS, and JavaScript",Frontend Developer
+"React.js developer with Redux state management",Frontend Developer
+"Built responsive UIs with Bootstrap and Tailwind CSS",Frontend Developer
+"Vue.js applications with Vuex store",Frontend Developer
+"Frontend testing with Jest and Cypress",Frontend Developer
+"Experience in Angular and TypeScript",Frontend Developer
+"Styled Components and Material UI experience",Frontend Developer
+"Cross-browser compatibility and responsive design",Frontend Developer
+"Next.js developer with SSR and SSG",Frontend Developer
+"Integrated REST and GraphQL APIs in frontend apps",Frontend Developer
+"Frontend performance optimization and caching",Frontend Developer
+"Created SPAs with React Router and Redux Toolkit",Frontend Developer
+"Web accessibility (WCAG) and SEO optimization",Frontend Developer
+"Used D3.js for data visualization in dashboards",Frontend Developer
+"Progressive Web Apps (PWA) with service workers",Frontend Developer
