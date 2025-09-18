@@ -1,0 +1,29 @@
+version: "3.8"
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    image: jobfit-backend:latest
+    container_name: jobfit-backend
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./models:/app/models:ro
+    environment:
+      - PYTHONUNBUFFERED=1
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    image: jobfit-frontend:latest
+    container_name: jobfit-frontend
+    restart: unless-stopped
+    ports:
+      - "8501:8501"
+    depends_on:
+      - backend
+    environment:
+      - PYTHONUNBUFFERED=1
